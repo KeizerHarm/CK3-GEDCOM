@@ -1,0 +1,11 @@
+﻿#This is the file for existing dynasties. Do not touch the headers, but fill out the rest to your hearts' content.
+#Any dynasty not defined here will not be used - the character will be considered Lowborn.
+#The Prefix contains the surname prefix, like "von " in "von Habsburg", or "d'" in "d'Anjou". Name contains the rest of the name. Make sure to include the space there, if there's a space between prefix and surname!
+#The Id is the key by which the dynasty is referenced by the script. It should be unique across both your mod and vanilla. Therefore a sensible tactic is prefixing them, naming them mymod.1, mymod.2, etc. The id does not need a numeric part though: von_habsburg would be a perfectly fine dynasty id. If the game itself already has this dynasty, you should use the same dynasty id to make your characters part of that dynasty.
+#IsVanilla: fill in "yes" if this is a dynasty that exists in vanilla or in the existing mod you are generating new characters for. Leave blank otherwise. All this will do is not print out that dynasty definition, saving you the effort of removing it manually from the generated files.
+
+Prefix;Name;Culture;Faith;Id;IsVanilla
+;Dueze;french;catholic;CKU_dueze;
+;Via;french;catholic;CKU_via;
+;Trians;french;catholic;CKU_trians;
+;Jean;french;catholic;CKU_jean;

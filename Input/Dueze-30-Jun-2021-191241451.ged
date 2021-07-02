@@ -1,0 +1,768 @@
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE Dueze
+1 DATE 30 JUN 2021
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Torngasuk
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Arnaud /Dueze/
+2 GIVN Arnaud
+2 SURN Dueze
+2 _MARNM Dueze
+1 SEX M
+1 BIRT
+2 DATE 1220
+1 DEAT Y
+2 DATE 1271
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Jacques /Dueze/
+2 GIVN Jacques
+2 SURN Dueze
+2 _MARNM Dueze
+1 SEX M
+1 BIRT
+2 DATE 1244
+1 DEAT Y
+2 DATE 1334
+1 FAMC @F1@
+0 @I3@ INDI
+1 NAME Marie /Dueze/
+2 GIVN Marie
+2 SURN Dueze
+2 _MARNM Dueze
+1 SEX F
+1 BIRT
+2 DATE 1241
+1 DEAT Y
+2 DATE 1291
+1 FAMS @F2@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Huguette /Dueze/
+2 GIVN Huguette
+2 SURN Dueze
+2 _MARNM Dueze
+1 SEX F
+1 BIRT
+2 DATE 1253
+1 DEAT Y
+2 DATE 1303
+1 FAMS @F3@
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Pierre /Dueze/
+2 GIVN Pierre
+2 SURN Dueze
+2 _MARNM Dueze
+1 SEX M
+1 BIRT
+2 DATE 1240
+1 DEAT Y
+2 DATE 1326
+1 FAMS @F4@
+1 FAMC @F1@
+0 @I6@ INDI
+1 NAME Pierre /Via/
+2 GIVN Pierre
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1241
+1 DEAT Y
+2 DATE 1291
+1 FAMS @F2@
+0 @I7@ INDI
+1 NAME Arnaud /Dueze-Carmain/
+2 GIVN Arnaud
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX M
+1 BIRT
+2 DATE 1290
+1 DEAT Y
+2 DATE 1340
+1 FAMS @F5@
+1 FAMC @F4@
+0 @I8@ INDI
+1 NAME Arnaud /Dueze-Carmain/
+2 GIVN Arnaud
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX M
+1 BIRT
+2 DATE 1320
+1 DEAT Y
+2 DATE 1371
+1 FAMS @F6@
+1 FAMC @F5@
+0 @I9@ INDI
+1 NAME Hugues /Dueze-Carmain/
+2 GIVN Hugues
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX M
+1 BIRT
+2 DATE 1360
+1 DEAT
+2 DATE 1437
+1 FAMS @F7@
+1 FAMC @F6@
+0 @I10@ INDI
+1 NAME Jean /Dueze-Carmain/
+2 GIVN Jean
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX M
+1 BIRT
+2 DATE 1400
+1 DEAT Y
+2 DATE 1479
+1 FAMS @F17@
+1 FAMC @F7@
+0 @I11@ INDI
+1 NAME Jacques /Via/
+2 GIVN Jacques
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1269
+1 DEAT Y
+2 DATE 1317
+1 FAMC @F2@
+0 @I12@ INDI
+1 NAME Arnaud /Via/
+2 GIVN Arnaud
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1268
+1 DEAT Y
+2 DATE 1335
+1 FAMC @F2@
+0 @I13@ INDI
+1 NAME Pierre /Via/
+2 GIVN Pierre
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1267
+1 DEAT Y
+2 DATE 28 JUL 1337
+1 FAMS @F8@
+1 FAMC @F2@
+0 @I14@ INDI
+1 NAME Jacques /Via/
+2 GIVN Jacques
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1306
+1 DEAT Y
+2 DATE 1356
+1 FAMC @F8@
+0 @I15@ INDI
+1 NAME Arnaud /Via/
+2 GIVN Arnaud
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1305
+1 DEAT Y
+2 DATE 1382
+1 FAMS @F9@
+1 FAMC @F8@
+0 @I16@ INDI
+1 NAME Jean /Via/
+2 GIVN Jean
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1307
+1 DEAT Y
+2 DATE 1357
+1 FAMC @F8@
+0 @I17@ INDI
+1 NAME Pierre /Via/
+2 GIVN Pierre
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1308
+1 DEAT Y
+2 DATE 1358
+1 FAMC @F8@
+0 @I18@ INDI
+1 NAME Robert /Via/
+2 GIVN Robert
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1309
+1 DEAT Y
+2 DATE 1359
+1 FAMC @F8@
+0 @I19@ INDI
+1 NAME Isabeau /Via/
+2 GIVN Isabeau
+2 SURN Via
+2 _MARNM Via
+1 SEX F
+1 BIRT
+2 DATE 1310
+1 DEAT Y
+2 DATE 1360
+1 FAMC @F8@
+0 @I20@ INDI
+1 NAME Marie /Via/
+2 GIVN Marie
+2 SURN Via
+2 _MARNM Via
+1 SEX F
+1 BIRT
+2 DATE 1315
+1 DEAT Y
+2 DATE 1383
+1 FAMC @F8@
+0 @I21@ INDI
+1 NAME Pierre /Via/
+2 GIVN Pierre
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1326
+1 DEAT Y
+2 DATE 1376
+1 FAMC @F9@
+0 @I22@ INDI
+1 NAME Jean /Via/
+2 GIVN Jean
+2 SURN Via
+2 _MARNM Via
+1 SEX M
+1 BIRT
+2 DATE 1330
+1 DEAT Y
+2 DATE 1380
+1 FAMC @F9@
+0 @I23@ INDI
+1 NAME Marguerite /Via/
+2 GIVN Marguerite
+2 SURN Via
+2 _MARNM Via
+1 SEX F
+1 BIRT
+2 DATE 1335
+1 DEAT Y
+2 DATE 1391
+1 FAMC @F9@
+0 @I24@ INDI
+1 NAME Arnaud /Trians/
+2 GIVN Arnaud
+2 SURN Trians
+2 _MARNM Trians
+1 SEX M
+1 BIRT
+2 DATE 1278
+1 DEAT Y
+2 DATE 1350
+1 FAMS @F10@
+1 FAMC @F3@
+0 @I25@ INDI
+1 NAME Guillaume /Trians/
+2 GIVN Guillaume
+2 SURN Trians
+2 _MARNM Trians
+1 SEX M
+1 BIRT
+2 DATE 1253
+1 DEAT Y
+2 DATE 1303
+1 FAMS @F3@
+0 @I26@ INDI
+1 NAME Aimery /Trians/
+2 GIVN Aimery
+2 SURN Trians
+2 _MARNM Trians
+1 SEX M
+1 BIRT
+2 DATE 1330
+1 DEAT Y
+2 DATE 1380
+1 FAMS @F15@
+1 FAMC @F10@
+0 @I27@ INDI
+1 NAME Constance /Trians/
+2 GIVN Constance
+2 SURN Trians
+2 _MARNM Trians
+1 SEX F
+1 BIRT
+2 DATE 1331
+1 DEAT Y
+2 DATE 1381
+1 FAMC @F10@
+0 @I28@ INDI
+1 NAME Jeanne /Trians/
+2 GIVN Jeanne
+2 SURN Trians
+2 _MARNM Trians
+1 SEX F
+1 BIRT
+2 DATE 1332
+1 DEAT Y
+2 DATE 1382
+1 FAMC @F10@
+0 @I29@ INDI
+1 NAME Louis /Trians/
+2 GIVN Louis
+2 SURN Trians
+2 _MARNM Trians
+1 SEX M
+1 BIRT
+2 DATE 1325
+1 DEAT Y
+2 DATE 1386
+1 FAMS @F11@
+1 FAMC @F10@
+0 @I30@ INDI
+1 NAME Raymond /Trians/
+2 GIVN Raymond
+2 SURN Trians
+2 _MARNM Trians
+1 SEX M
+1 BIRT
+2 DATE 1356
+1 DEAT Y
+2 DATE 1406
+1 FAMS @F12@
+1 FAMC @F11@
+0 @I31@ INDI
+1 NAME Constance /Trians/
+2 GIVN Constance
+2 SURN Trians
+2 _MARNM Trians
+1 SEX F
+1 BIRT
+2 DATE 1357
+1 DEAT Y
+2 DATE 1407
+1 FAMC @F11@
+0 @I32@ INDI
+1 NAME Alix /Trians/
+2 GIVN Alix
+2 SURN Trians
+2 _MARNM Trians
+1 SEX F
+1 BIRT
+2 DATE 1358
+1 DEAT Y
+2 DATE 1408
+1 FAMC @F11@
+0 @I33@ INDI
+1 NAME Briande /Trians/
+2 GIVN Briande
+2 SURN Trians
+2 _MARNM Trians
+1 SEX F
+1 BIRT
+2 DATE 1359
+1 DEAT Y
+2 DATE 1409
+1 FAMC @F11@
+0 @I34@ INDI
+1 NAME Anne /Trians/
+2 GIVN Anne
+2 SURN Trians
+2 _MARNM Trians
+1 SEX F
+1 BIRT
+2 DATE 1381
+1 DEAT Y
+2 DATE 1418
+1 FAMC @F12@
+0 @I35@ INDI
+1 NAME Marguerite /Dueze/
+2 GIVN Marguerite
+2 SURN Dueze
+2 _MARNM Dueze
+1 SEX F
+1 BIRT
+2 DATE 1242
+1 DEAT Y
+2 DATE 1292
+1 FAMS @F13@
+1 FAMC @F1@
+0 @I36@ INDI
+1 NAME Bernard /Jean/
+2 GIVN Bernard
+2 SURN Jean
+2 _MARNM Jean
+1 SEX M
+1 BIRT
+2 DATE 1237
+1 DEAT Y
+2 DATE 1287
+1 FAMS @F13@
+0 @I37@ INDI
+1 NAME Gaucelme /Jean/
+2 GIVN Gaucelme
+2 SURN Jean
+2 _MARNM Jean
+1 SEX M
+1 BIRT
+2 DATE 1267
+1 DEAT Y
+2 DATE 1348
+1 FAMC @F13@
+0 @I38@ INDI
+1 NAME Pierre /Jean/
+2 GIVN Pierre
+2 SURN Jean
+2 _MARNM Jean
+1 SEX M
+1 BIRT
+2 DATE 1268
+1 DEAT Y
+2 DATE 1338
+1 FAMC @F13@
+0 @I39@ INDI
+1 NAME Hugues /Dueze-Carmain/
+2 GIVN Hugues
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX M
+1 BIRT
+2 DATE 1401
+1 DEAT Y
+2 DATE 1451
+1 FAMS @F14@
+1 FAMC @F7@
+0 @I40@ INDI
+1 NAME Violante /Dueze-Carmain/
+2 GIVN Violante
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1440
+1 DEAT Y
+2 DATE 1491
+1 FAMC @F14@
+0 @I41@ INDI
+1 NAME Marguerite /Trians/
+2 GIVN Marguerite
+2 SURN Trians
+2 _MARNM Trians
+1 SEX F
+1 BIRT
+2 DATE 1370
+1 DEAT Y
+2 DATE 1445
+1 FAMC @F15@
+0 @I42@ INDI
+1 NAME Isabelle /Dueze-Carmain/
+2 GIVN Isabelle
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1364
+1 DEAT Y
+2 DATE 1414
+1 FAMC @F6@
+0 @I43@ INDI
+1 NAME Arnaud /Dueze-Carmain/
+2 GIVN Arnaud
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX M
+1 BIRT
+2 DATE 1363
+1 DEAT Y
+2 DATE 1413
+1 FAMS @F16@
+1 FAMC @F6@
+0 @I44@ INDI
+1 NAME Marguerite /Dueze-Carmain/
+2 GIVN Marguerite
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1331
+1 DEAT Y
+2 DATE 1390
+1 FAMC @F5@
+0 @I45@ INDI
+1 NAME Jean /Dueze-Carmain/
+2 GIVN Jean
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX M
+1 BIRT
+2 DATE 1402
+1 DEAT Y
+2 DATE 1452
+1 FAMC @F16@
+0 @I46@ INDI
+1 NAME Rose /Dueze-Carmain/
+2 GIVN Rose
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1403
+1 DEAT Y
+2 DATE 1453
+1 FAMC @F16@
+0 @I47@ INDI
+1 NAME Anne /Dueze-Carmain/
+2 GIVN Anne
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1404
+1 DEAT Y
+2 DATE 1454
+1 FAMC @F16@
+0 @I48@ INDI
+1 NAME Aigline /Dueze-Carmain/
+2 GIVN Aigline
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1295
+1 DEAT Y
+2 DATE 1323
+1 FAMC @F4@
+0 @I49@ INDI
+1 NAME Sibylle /Dueze-Carmain/
+2 GIVN Sibylle
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1405
+1 DEAT Y
+2 DATE 1486
+1 FAMC @F7@
+0 @I50@ INDI
+1 NAME Gabrielle /Dueze-Carmain/
+2 GIVN Gabrielle
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1406
+1 DEAT Y
+2 DATE 1456
+1 FAMC @F7@
+0 @I51@ INDI
+1 NAME Jean /Dueze-Carmain/
+2 GIVN Jean
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX M
+1 BIRT
+2 DATE 1428
+1 DEAT Y
+2 DATE 1511
+1 FAMC @F17@
+0 @I52@ INDI
+1 NAME Catherine /Dueze-Carmain/
+2 GIVN Catherine
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1429
+1 DEAT Y
+2 DATE 1479
+1 FAMC @F17@
+0 @I53@ INDI
+1 NAME Jeanne /Dueze-Carmain/
+2 GIVN Jeanne
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1430
+1 DEAT Y
+2 DATE 1480
+1 FAMC @F17@
+0 @I54@ INDI
+1 NAME Marguerite /Dueze-Carmain/
+2 GIVN Marguerite
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1431
+1 DEAT Y
+2 DATE 1481
+1 FAMC @F17@
+0 @I55@ INDI
+1 NAME Anne Marie /Dueze-Carmain/
+2 GIVN Anne Marie
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1432
+1 DEAT Y
+2 DATE 1482
+1 FAMC @F17@
+0 @I56@ INDI
+1 NAME Guillaume /Dueze-Carmain/
+2 GIVN Guillaume
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX M
+1 BIRT
+2 DATE 1441
+1 DEAT Y
+2 DATE 1491
+1 FAMC @F14@
+0 @I57@ INDI
+1 NAME Seguine /Dueze-Carmain/
+2 GIVN Seguine
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1442
+1 DEAT Y
+2 DATE 1492
+1 FAMC @F14@
+0 @I58@ INDI
+1 NAME Beatrix /Dueze-Carmain/
+2 GIVN Beatrix
+2 SURN Dueze-Carmain
+2 _MARNM Dueze-Carmain
+1 SEX F
+1 BIRT
+2 DATE 1443
+1 DEAT Y
+2 DATE 1493
+1 FAMC @F14@
+0 @F1@ FAM
+1 HUSB @I1@
+1 CHIL @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+1 CHIL @I35@
+0 @F4@ FAM
+1 HUSB @I5@
+1 CHIL @I7@
+1 CHIL @I48@
+0 @F5@ FAM
+1 HUSB @I7@
+1 CHIL @I8@
+1 CHIL @I44@
+0 @F6@ FAM
+1 HUSB @I8@
+1 CHIL @I9@
+1 CHIL @I42@
+1 CHIL @I43@
+0 @F7@ FAM
+1 HUSB @I9@
+1 CHIL @I10@
+1 CHIL @I39@
+1 CHIL @I49@
+1 CHIL @I50@
+0 @F8@ FAM
+1 HUSB @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I17@
+1 CHIL @I18@
+1 CHIL @I19@
+1 CHIL @I20@
+0 @F9@ FAM
+1 HUSB @I15@
+1 CHIL @I21@
+1 CHIL @I22@
+1 CHIL @I23@
+0 @F10@ FAM
+1 HUSB @I24@
+1 CHIL @I26@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I29@
+0 @F11@ FAM
+1 HUSB @I29@
+1 CHIL @I30@
+1 CHIL @I31@
+1 CHIL @I32@
+1 CHIL @I33@
+0 @F12@ FAM
+1 HUSB @I30@
+1 CHIL @I34@
+0 @F14@ FAM
+1 HUSB @I39@
+1 CHIL @I40@
+1 CHIL @I56@
+1 CHIL @I57@
+1 CHIL @I58@
+0 @F15@ FAM
+1 HUSB @I26@
+1 CHIL @I41@
+0 @F16@ FAM
+1 HUSB @I43@
+1 CHIL @I45@
+1 CHIL @I46@
+1 CHIL @I47@
+0 @F17@ FAM
+1 HUSB @I10@
+1 CHIL @I51@
+1 CHIL @I52@
+1 CHIL @I53@
+1 CHIL @I54@
+1 CHIL @I55@
+0 @F2@ FAM
+1 HUSB @I6@
+1 WIFE @I3@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 MARR
+2 DATE 1266
+1 _CURRENT Y
+0 @F3@ FAM
+1 HUSB @I25@
+1 WIFE @I4@
+1 CHIL @I24@
+1 MARR
+2 DATE 1277
+1 _CURRENT Y
+0 @F13@ FAM
+1 HUSB @I36@
+1 WIFE @I35@
+1 CHIL @I37@
+1 CHIL @I38@
+1 MARR
+2 DATE 1266
+1 _CURRENT Y
+0 TRLR

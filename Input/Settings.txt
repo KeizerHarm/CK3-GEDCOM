@@ -1,0 +1,16 @@
+﻿#Settings file. Adjust this to your liking before running the program. Comment out settings you do not wish to be used.
+
+#What language should I generate the localisation files for? There's no difference in structure at all; just to save you the effort of setting the file name and first line appropriately. Defaults to English.
+Language = english
+
+#Where to start counting the character ids (inclusive).
+FirstCharacterId = 1
+
+#Since character ids can have characters in them now, it might be worth namespacing them, so that you don't have to worry about collisions with vanilla or other mods. The string here will be prepended to the character number, e.g. mymod.1. Note that the character id cache includes this namespace, so if you change the namespace between generations, every cached id will still use the original namespace. If so, you should clear the cache file or change it manually.
+CharacterNamespace = mymod
+
+#Vanilla character history files are grouped by culture, distributed over afghan.txt, dutch.txt, etc, to avoid creating massive files. This setting supports the following options:
+# culture (groups by culture)
+# dynasty (groups by dynasty, placing the characters without dynasties with their spouse (if married), house members with their parent dynasty (if it exists) and in a file called other.txt otherwise (make sure you don't have a dynasty called 'other'!))
+# none (puts everyone in characters.txt. Commenting the setting out also selects this option)
+group_characters_by = none

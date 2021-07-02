@@ -1,0 +1,8 @@
+﻿#This is the file for existing houses. Do not touch the headers, but fill out the rest to your hearts' content.
+#The Prefix contains the surname prefix, like "von " in "von Habsburg", or "d'" in "d'Anjou". Name contains the rest of the name. Make sure to include the space there, if there's a space between prefix and surname!
+#The Id is the key by which the house is referenced by the script. It should be unique across both your mod and vanilla. Therefore a sensible tactic is prefixing them, naming them mymod.1, mymod.2, etc. The id does not need a numeric part though: von_habsburg would be a perfectly fine house id. If the game itself already has this house, you should use the same house id to make your characters part of that house.
+#The dynasty id references the dynasty to which this house belongs. That can refer to either a vanilla dynasty or one you defined manually in the Dynasties.csv file.
+#IsVanilla: fill in "yes" if this is a house that exists in vanilla, or in some existing mod you are generating new characters for. Fill in anything else or leave blank otherwise. All this will do is not print out the house definition, saving you the effort of removing it manually from the generated files.
+
+Prefix;Name;Culture;Faith;Id;DynastyId;IsVanilla
+;Dueze-Carmain;french;catholic;Dueze_Carmain;CKU_dueze;
